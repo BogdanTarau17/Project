@@ -1,4 +1,4 @@
-package $com.mycompany.app;
+package $org.siit.automation-local-proj;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

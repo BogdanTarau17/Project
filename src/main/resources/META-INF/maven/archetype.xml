@@ -1,5 +1,5 @@
 <archetype>
-  <id>my-app</id>
+  <id>automation-local-proj</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
