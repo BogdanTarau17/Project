@@ -1,7 +1,7 @@
 package homeworks.bogdantarau.homework1;
 
 public class LeapYear {
-    public static void main(String[] args) {
+   public static void main(String[] args) {
         System.out.println("Enter a year between 1900 and 2016:");
         int year = Integer.parseInt(args[0]);
         boolean isLeapYear;
